@@ -71,6 +71,8 @@ MeanShift and CamShift Tracking
 
 - Visualization: Visualize the tracking results.
 
+---
+
 📫 Contact
 For questions or feedback, feel free to reach out:
 
